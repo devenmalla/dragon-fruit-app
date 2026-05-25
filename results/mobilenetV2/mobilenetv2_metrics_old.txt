@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   Bad fruit       0.93      0.87      0.90        47
+    Bad leaf       0.94      0.92      0.93       243
+  Good fruit       0.89      0.96      0.92        50
+   Good leaf       0.95      0.96      0.95       337
+
+    accuracy                           0.94       677
+   macro avg       0.93      0.93      0.93       677
+weighted avg       0.94      0.94      0.94       677
